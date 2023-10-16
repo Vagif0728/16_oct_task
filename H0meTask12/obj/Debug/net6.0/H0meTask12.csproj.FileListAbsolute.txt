@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\H0meTask12\H0meTask12\bin\Debug\net6.0\H0meTask12.exe
+C:\Users\User\Desktop\H0meTask12\H0meTask12\bin\Debug\net6.0\H0meTask12.deps.json
+C:\Users\User\Desktop\H0meTask12\H0meTask12\bin\Debug\net6.0\H0meTask12.runtimeconfig.json
+C:\Users\User\Desktop\H0meTask12\H0meTask12\bin\Debug\net6.0\H0meTask12.dll
+C:\Users\User\Desktop\H0meTask12\H0meTask12\bin\Debug\net6.0\H0meTask12.pdb
+C:\Users\User\Desktop\H0meTask12\H0meTask12\obj\Debug\net6.0\H0meTask12.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\H0meTask12\H0meTask12\obj\Debug\net6.0\H0meTask12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\H0meTask12\H0meTask12\obj\Debug\net6.0\H0meTask12.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\H0meTask12\H0meTask12\obj\Debug\net6.0\H0meTask12.AssemblyInfo.cs
+C:\Users\User\Desktop\H0meTask12\H0meTask12\obj\Debug\net6.0\H0meTask12.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\H0meTask12\H0meTask12\obj\Debug\net6.0\H0meTask12.dll
+C:\Users\User\Desktop\H0meTask12\H0meTask12\obj\Debug\net6.0\refint\H0meTask12.dll
+C:\Users\User\Desktop\H0meTask12\H0meTask12\obj\Debug\net6.0\H0meTask12.pdb
+C:\Users\User\Desktop\H0meTask12\H0meTask12\obj\Debug\net6.0\H0meTask12.genruntimeconfig.cache
+C:\Users\User\Desktop\H0meTask12\H0meTask12\obj\Debug\net6.0\ref\H0meTask12.dll
